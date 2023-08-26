@@ -2,5 +2,5 @@
 This is my practice GitHub repository.
 <br>
 Author - Atul Kumar
-<pr>
+<br>
 This is my new Git Repository
